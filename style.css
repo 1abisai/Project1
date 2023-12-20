@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    background-color: black;
+    height: 55px;
+    color: white;
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    background-color: white;
+    display: inline;
+}
+
+/*--------------Truck hero--------------*/
+
+.image {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*---------------------info--------------*/
+.lower_content {
+    margin-top: 20px;
+    display: inline;
+}
+
+.requestrow1 {
+    margin-left: 20px;
+}
+
+.leftP {
+    color: black;
+    font-size: 15pt;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+.phoneNum {
+    margin-top: 20px;
+    margin-left: 145px;
+}
+
+.requestrow2 {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.or {
+    margin-top: 20px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+
+.requestrow3 {
+    margin-top: 20px;
+    margin-left: 185px;
+}
+
+.find {
+    margin-top: 20px;
+    margin-left: 177px;
+    font-weight: bold;
+}
+
+.rightP {
+    color: black;
+    font-size: 17pt;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 145px;
+}
+
+#addM {
+    margin-top: 20px;
+    margin-left: 185px;
+}
+
+.highlight {
+    color: rgb(0, 74, 143);
+    text-decoration: underline;
+}
