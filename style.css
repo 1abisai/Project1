@@ -45,38 +45,55 @@
 
 /*---------------------info--------------*/
 
+.lower_content {
+    display: inline
+}
+
 .leftP {
     color: black;
     font-size: 13pt;
     font-weight: bolder;
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .phoneNum {
     margin-top: 20px;
-    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .requestrow2 {
     margin-top: 20px;
-    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .or {
     margin-top: 20px;
-    margin-left: 128px;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .requestrow3 {
     margin-top: 20px;
-    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .find {
     margin-top: 20px;
-    margin-left: 110px;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .rightP {
@@ -84,12 +101,16 @@
     font-size: 17pt;
     font-weight: bold;
     margin-top: 20px;
-    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #addM {
     margin-top: 20px;
-    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .highlight {
